@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MentorIn</string>
+    <string name="mentor_name">Nama Mentor</string>
+    <string name="mentor_headline">Headline </string>
+    <string name="mentor_details">About</string>
+    <string name="about">About</string>
+    <string name="education">Education</string>
+    <string name="skills">Skills and endorsement</string>
+    <string name="profile">Profile</string>
+    <string name="grid">Grid</string>
+    <string name="list">List</string>
+    <string name="my_name">Zen Fanny </string>
+    <string name="email">zenfany54@gmail.com</string>
+    <string name="content_college">College</string>
+    <string name="content_skills">Skills</string>
+    <string name="content_about">About</string>
+    <string name="about_me">About Me</string>
+    <string name="content_about_me">Hi its me Zen, a student Informatics Engineering doing Android dev things also UX Design sometimes.
+</string>
+    <string name="content_about_fulldesc">This app and idea inspired by Hackathon codeforgod held by SABDA and YLSA  on oktober 2020. </string>
+    <string name="about_app">About this app</string>
+</resources>
